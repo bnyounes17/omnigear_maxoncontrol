@@ -1,8 +1,13 @@
 # omnigear_maxoncontrol
 
+The research is about controlling helical gears meshed with an omnidirectional plate.
+Each gear is activated with a brushless Maxon motor. Maxon EPOS4 motor driver are used with each motor for the control.
+PID tuning was necessary before each experiment via the EPOS4 tuning interface.
+
 In the table below, are listed parts that have been used. 
 The code is mainly used for EPOS4 Maxon motors drivers. 
 It can be adapted for other versions.
+
 
 
 
